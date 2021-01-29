@@ -12,6 +12,6 @@ Below are some goals that I hope to achieve over the coming weeks of the Bootcam
 - [ ] Become a Full Stack Web Developer
 - [ ] Land a Job 
 
-Click below to keep up to date on each week of my point of view of our journey :)
+Click below to keep with me on each week this Awesome journey!
 
 [Week One](blog.md)
