@@ -3,9 +3,9 @@
 
 _**How I felt jumping right into pit of despair at the beginning of the week.**_
 
-I started this week out by going through all of Justin's wonderful Onboarding videos, moved on to Pre Work Week One tasks and then BAM, I was instantly overwhelmed with all this new documentation about CLI, Git, and everything else.
+*I started this week out by going through all of Justin's wonderful Onboarding videos, moved on to Pre Work Week One tasks and then BAM, I was instantly overwhelmed with all this new documentation about CLI, Git, and everything else.
 
-I wasn't much of a reader throughout school so when I pulled up the documentation and tried to understand every single section I figured out quickly that this might not be how I learn.  
+*I wasn't much of a reader throughout school so when I pulled up the documentation and tried to understand every single section I figured out quickly that this might not be how I learn.  
 
 ![Excited Gif](https://i.pinimg.com/originals/8d/a3/cc/8da3cc2c3db6b45b56eb24b622c44c11.gif)
 
