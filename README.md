@@ -14,4 +14,4 @@ Below are some goals that I hope to achieve over the coming weeks of the Bootcam
 
 Click below to keep up with me on each week this Awesome journey!
 
-<div alig= "right">[Week One](blog.md)</div>
+<div align= "right">[Week One](blog.md)</div>
