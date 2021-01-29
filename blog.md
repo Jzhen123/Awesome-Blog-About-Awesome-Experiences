@@ -16,6 +16,6 @@ _**How I felt jumping right into pit of despair at the beginning of the week.**_
 * I hope to keep everyone updated in this journey with my Spring 2021 cohort :)
 
 <div align="center">
-  <a href="https://jzhen123.github.io/Awesome-Blog-About-Awesome-Experiences/">Home</a>
+  <a href="https://jzhen123.github.io/Awesome-Blog-About-Awesome-Experiences/">Home Page</a>
 </div>
 
