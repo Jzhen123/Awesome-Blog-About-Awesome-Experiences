@@ -4,10 +4,14 @@ Below are some goals that I hope to achieve over the coming weeks of the Bootcam
 - [x] Learn about and be able to use CLI, Git, GitHub (Prework Week One)
 - [x] Start my Blog using Markdown
 - [ ] Successfully complete Demo Day for Week One
-- [ ] Finish Prework Week Two
+- [ ] I Can Use HTML/CSS
+- [ ] I Can Use Javascript
+- [ ] I Can Use Bootstrap
+- [ ] I Can Use React
 - [ ] ... (Adding more here)
 - [ ] Become a Full Stack Web Developer
 - [ ] Land a Job 
 
-Click below to keep up to date on each week of my point of view of our journey :)
+Click below to keep up with me on each week this Awesome journey!
+
 [Week One](blog.md)
