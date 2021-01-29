@@ -14,4 +14,6 @@ Below are some goals that I hope to achieve over the coming weeks of the Bootcam
 
 Click below to keep up with me on each week this Awesome journey!
 
-[Week One](blog.md)
+<div align="right">
+  <a href="https://jzhen123.github.io/Awesome-Blog-About-Awesome-Experiences/blog.html">Week One ></a>
+</div>
