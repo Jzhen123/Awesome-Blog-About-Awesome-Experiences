@@ -5,6 +5,6 @@ Below are some goals that I hope to achieve over the coming weeks of the Bootcam
 - [x] Start my Blog using Markdown
 - [ ] Successfully complete Demo Day for Week One
 - [ ] Finish Prework Week Two
-- [ ] ...
+- [ ] ... (Adding more here)
 - [ ] Become a Full Stack Web Developer
 - [ ] Land a Job
