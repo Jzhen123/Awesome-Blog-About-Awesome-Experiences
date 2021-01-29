@@ -7,4 +7,7 @@ Below are some goals that I hope to achieve over the coming weeks of the Bootcam
 - [ ] Finish Prework Week Two
 - [ ] ... (Adding more here)
 - [ ] Become a Full Stack Web Developer
-- [ ] Land a Job
+- [ ] Land a Job 
+
+Click below to keep up to date on each week of my point of view of our journey :)
+[Week One](README.md)
