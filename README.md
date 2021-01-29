@@ -3,5 +3,7 @@
 ###### Below are some goals that I hope to achieve over the coming weeks of the Bootcamp. (Will continue to add more later on)
 - [x] Learn about and be able to use CLI, Git, GitHub. (Prework Week One)
 - [x] Start my Blog using Markdown.
-- [ ] Learn about Github 
-- [ ] Learn about Github 
+- [ ] Successfully complete Demo Day for Week One.
+- [ ] Finish Prework Week Two.
+- [ ] ...
+- [ ] Become a Full Stack Web Developer
